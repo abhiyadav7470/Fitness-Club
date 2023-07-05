@@ -14,8 +14,8 @@ export const Home=()=>{
         marginTop: '0px',
         padding: '80px'
     }} container>
-        <Grid item  xs={8} md={5} component="img" src={Logo}></Grid>
-        <Grid item ml={2} xs={8} md={4} sx={{
+        <Grid item  xs={6} sm={6} md={4} component="img" src={Logo}></Grid>
+        <Grid item ml={2} xs={5} md={4} sx={{
             textAlign: 'left'
         }}>
             <Typography variant='h6' m={1} component='div' color='#ff5421'>Back to the gym</Typography>
