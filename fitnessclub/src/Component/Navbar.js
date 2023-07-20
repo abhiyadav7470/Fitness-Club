@@ -3,8 +3,8 @@ export const Navbar=()=>{
     return <>
         <AppBar  sx={{
                 backgroundColor: '#1d0e15',
-                paddingLeft: '20%',
-                paddingRight: '20%'
+                paddingLeft: '10%',
+                paddingRight: '10%'
             }}>
             <Toolbar >
                 <Typography variant='h6' component='div' textAlign='left' flexGrow={1} color='#ff5421' fontWeight='bold'>FITNESS<span style={{color: '#fff'}}>CLUB</span></Typography>

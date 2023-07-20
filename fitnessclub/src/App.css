@@ -3,6 +3,10 @@
   background-color: #1d0e15;
 }
 
+body{
+  color: 'white';
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

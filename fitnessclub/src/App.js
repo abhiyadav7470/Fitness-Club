@@ -8,6 +8,7 @@ import { PlaneCompo } from './Component/PlaneCompo';
 import { JoinNowcompo } from './Component/JoinNowcompo';
 import { TeamCompo } from './Component/TeamCompo';
 import { Blogcompo } from './Component/Blogcompo';
+import { Footer } from './Component/Footer';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <JoinNowcompo></JoinNowcompo>
       <TeamCompo></TeamCompo>
       <Blogcompo></Blogcompo>
+      <Footer></Footer>
     </div>
   );
 }

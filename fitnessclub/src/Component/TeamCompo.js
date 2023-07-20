@@ -24,7 +24,7 @@ export const TeamCompo=()=>{
     <Typography variant="h6" component='div' color='#ff5421'>our team</Typography>
     <Typography variant="h5" component='div' color='white'>Meet The Expert Team</Typography>
 
-    <Stack flexDirection='row' flexWrap='wrap' justifyContent='space-around' rowGap={3}>
+    <Stack flexDirection='row' flexWrap='wrap' justifyContent='space-evenly' rowGap={3}>
         <Stack>
             <Typography onMouseOver={()=>handleMouseOver('sergi')} onMouseOut={handleMouseOut} variant="h6" component='div' sx={{backgroundImage: `url(${SergiImage})`, width: '400px', height: '400px'}}>
 
