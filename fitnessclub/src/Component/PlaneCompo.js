@@ -5,7 +5,7 @@ import CurrencyRupeeIcon from '@mui/icons-material/CurrencyRupee';
 
 export const PlaneCompo=()=>{
     return <>
-    <Typography variant='h6' mt={3} color='white' component='div'>choose a plan</Typography>
+    <Typography variant='h4' mt={3} color='#ff5421' component='div'>choose a plan</Typography>
     <Typography variant='h5' mb={3} color='white' component='div'>Find A Perfect Plan</Typography>
 
     <Stack flexDirection='row' columnGap={3} justifyContent='space-around'>

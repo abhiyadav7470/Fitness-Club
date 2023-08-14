@@ -7,8 +7,8 @@ import PersonIcon from '@mui/icons-material/Person';
 
 export const Blogcompo=()=>{
     return<>
-        <Typography variant='h6' component='div' mt={3} sx={{color: '#ff5421'}}>our blogs</Typography>
-        <Typography variant='h5' mb={3} component='div' color='white'>Our Daily Posts</Typography>
+        <Typography variant='h4' component='div' mt={5} sx={{color: '#ff5421'}}>our blogs</Typography>
+        <Typography variant='h6' mb={2} component='div' color='white'>Our Daily Posts</Typography>
 
         <Stack flexDirection='row' flexWrap='wrap' p={3} justifyContent='space-evenly' rowGap={3} columnGap={3}>
          <Box width='350px' minWidth='400px' border='1px solid white'>

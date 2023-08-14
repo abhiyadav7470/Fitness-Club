@@ -21,8 +21,8 @@ export const TeamCompo=()=>{
         setHover({sergi: false, shewetha: false, yogasini: false});
     }
     return<>
-    <Typography variant="h6" component='div' color='#ff5421'>our team</Typography>
-    <Typography variant="h5" component='div' color='white'>Meet The Expert Team</Typography>
+    <Typography variant="h4" component='div' color='#ff5421'>our team</Typography>
+<Typography variant="h6" mb={2} component='div' color='white'>Meet The Expert Team</Typography>
 
     <Stack flexDirection='row' flexWrap='wrap' justifyContent='space-evenly' rowGap={3}>
         <Stack>

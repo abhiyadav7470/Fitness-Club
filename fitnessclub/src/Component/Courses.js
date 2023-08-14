@@ -11,8 +11,8 @@ import Pregnancyjpg from '../source/pregnancy_workout.jpg';
 export const Courses=()=>{
     return<>
     
-    <Typography variant='h6' component='div' backgroundColor='#1d0e15' color='white'>our courses</Typography>
-            <Typography backgroundColor='#1d0e15' color='white' variant='h5' component='div'>Our Latest Courses</Typography>
+    <Typography variant='h4' component='div' backgroundColor='#1d0e15' mt={3} color='#ff5421'>our courses</Typography>
+            <Typography backgroundColor='#1d0e15' color='white' variant='h5' mb={2} component='div'>Our Latest Courses</Typography>
     <Stack p={3} sx={{backgroundColor: '#1d0e15', color: 'white'}} flexDirection='row' rowGap={2} columnGap={2} justifyContent='center' flexWrap='wrap'>
 
         <Box width='400px' minWidth='400px' border='1px solid'>
