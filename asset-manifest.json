@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Fitness-club/static/css/main.f129cd23.css",
+    "main.js": "/Fitness-club/static/js/main.b1984cfa.js",
+    "static/js/787.703fc2a8.chunk.js": "/Fitness-club/static/js/787.703fc2a8.chunk.js",
+    "static/media/weightlift.jpeg": "/Fitness-club/static/media/weightlift.abfcfeccadc1d8ca716b.jpeg",
+    "static/media/2000ww.gif": "/Fitness-club/static/media/2000ww.92ed092596a08c8b3aec.gif",
+    "static/media/logo.gif": "/Fitness-club/static/media/logo.feec911b2bec931c43c7.gif",
+    "static/media/yogaa.jpg": "/Fitness-club/static/media/yogaa.43af66789fa8bf164fac.jpg",
+    "static/media/pregnancy_workout.jpg": "/Fitness-club/static/media/pregnancy_workout.259ec87f66e510bfe347.jpg",
+    "static/media/CrossFit.jpg": "/Fitness-club/static/media/CrossFit.d7ac033a2f0e7a2ce2d6.jpg",
+    "static/media/join-us-image.png": "/Fitness-club/static/media/join-us-image.a80e4506c745419a1d4e.png",
+    "static/media/about-img.png": "/Fitness-club/static/media/about-img.31e2642f290299a6cc44.png",
+    "static/media/swim.jpg": "/Fitness-club/static/media/swim.f2a32f0ad3f5ba02d767.jpg",
+    "static/media/img-2.jpg": "/Fitness-club/static/media/img-2.90bea5452eee4a442d7e.jpg",
+    "static/media/Dance-Class.jpg": "/Fitness-club/static/media/Dance-Class.9e2f7d19f35df26eace1.jpg",
+    "static/media/weightLifting.jpg": "/Fitness-club/static/media/weightLifting.0c064b6ccd7270b15cf6.jpg",
+    "static/media/home-bg.jpg": "/Fitness-club/static/media/home-bg.f16fef2d211e48e3eb2e.jpg",
+    "static/media/team-3.jpg": "/Fitness-club/static/media/team-3.b60ca939109ef6e4f263.jpg",
+    "static/media/Sergi-Constance-1-1.jpg": "/Fitness-club/static/media/Sergi-Constance-1-1.7882f784fadd7e0b2ecc.jpg",
+    "static/media/counter-bg.jpg": "/Fitness-club/static/media/counter-bg.f297f625336c50c378a4.jpg",
+    "static/media/logo.svg": "/Fitness-club/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Fitness-club/index.html",
+    "main.f129cd23.css.map": "/Fitness-club/static/css/main.f129cd23.css.map",
+    "main.b1984cfa.js.map": "/Fitness-club/static/js/main.b1984cfa.js.map",
+    "787.703fc2a8.chunk.js.map": "/Fitness-club/static/js/787.703fc2a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f129cd23.css",
+    "static/js/main.b1984cfa.js"
+  ]
+}
